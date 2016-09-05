@@ -1,0 +1,16 @@
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\IhelperTesterConsoele\bin\Debug\IhelperTesterConsoele.exe.config
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\IhelperTesterConsoele\bin\Debug\IhelperTesterConsoele.exe
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\IhelperTesterConsoele\bin\Debug\IhelperTesterConsoele.pdb
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\IhelperTesterConsoele\bin\Debug\iHelperClasses.dll
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\IhelperTesterConsoele\bin\Debug\iHelperClasses.pdb
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\IhelperTesterConsoele\obj\Debug\IhelperTesterConsoele.csprojResolveAssemblyReference.cache
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\IhelperTesterConsoele\obj\Debug\IhelperTesterConsoele.exe
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\IhelperTesterConsoele\obj\Debug\IhelperTesterConsoele.pdb
+D:\ibusiness\project backups\iHelperClasses\IhelperTesterConsoele\bin\Debug\IhelperTesterConsoele.exe.config
+D:\ibusiness\project backups\iHelperClasses\IhelperTesterConsoele\obj\Debug\IhelperTesterConsoele.exe
+D:\ibusiness\project backups\iHelperClasses\IhelperTesterConsoele\obj\Debug\IhelperTesterConsoele.pdb
+D:\ibusiness\project backups\iHelperClasses\IhelperTesterConsoele\bin\Debug\IhelperTesterConsoele.exe
+D:\ibusiness\project backups\iHelperClasses\IhelperTesterConsoele\bin\Debug\IhelperTesterConsoele.pdb
+D:\ibusiness\project backups\iHelperClasses\IhelperTesterConsoele\bin\Debug\iHelperClasses.dll
+D:\ibusiness\project backups\iHelperClasses\IhelperTesterConsoele\bin\Debug\iHelperClasses.pdb
+D:\ibusiness\project backups\iHelperClasses\IhelperTesterConsoele\obj\Debug\IhelperTesterConsoele.csprojResolveAssemblyReference.cache

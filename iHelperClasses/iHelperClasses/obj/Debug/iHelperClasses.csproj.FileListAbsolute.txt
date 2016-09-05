@@ -1,0 +1,10 @@
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\iHelperClasses\bin\Debug\iHelperClasses.dll
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\iHelperClasses\bin\Debug\iHelperClasses.pdb
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\iHelperClasses\obj\Debug\iHelperClasses.dll
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\iHelperClasses\obj\Debug\iHelperClasses.pdb
+C:\Users\milinda\Documents\Visual Studio 2013\Projects\iHelperClasses\iHelperClasses\obj\Debug\iHelperClasses.csprojResolveAssemblyReference.cache
+D:\ibusiness\project backups\iHelperClasses\iHelperClasses\obj\Debug\iHelperClasses.csprojResolveAssemblyReference.cache
+D:\ibusiness\project backups\iHelperClasses\iHelperClasses\obj\Debug\iHelperClasses.dll
+D:\ibusiness\project backups\iHelperClasses\iHelperClasses\obj\Debug\iHelperClasses.pdb
+D:\ibusiness\project backups\iHelperClasses\iHelperClasses\bin\Debug\iHelperClasses.dll
+D:\ibusiness\project backups\iHelperClasses\iHelperClasses\bin\Debug\iHelperClasses.pdb
